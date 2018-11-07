@@ -43,6 +43,6 @@ public class Task {
     }
 
     public String toString(){
-        return "Description: " + description + "\nTime: " + time + "\nDuration: " + duration + "\nDate: " + date + "\nPriority: " + priority + "\n";
+        return "Description: " + description + "\nTime: " + time + "\nDuration: " + duration + " Minutes\nDate: " + date + "\nPriority: " + priority + "\n";
     }
 }
